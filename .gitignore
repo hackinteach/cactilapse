@@ -1,4 +1,5 @@
 data/**
+*.DS_STORE
 !*.gitkeep
 
 **/*.ipynb_checkpoints/
