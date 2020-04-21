@@ -1,0 +1,11 @@
+opencv-python
+numpy
+matplotlib
+sklearn
+cvlib
+tensorflow
+pandas
+Pillow
+arrow
+seaborn
+opencv-contrib-python
